@@ -6,6 +6,7 @@ This repository contains a collection of 12 Jupyter Notebooks designed to explor
 The repository emphasizes hands-on learning, featuring tasks such as probability distribution analysis, hypothesis testing, and statistical modeling. It incorporates both manual calculations and Python libraries to build a solid foundation for tackling real-world data challenges.
 
 This collection of exercises was developed as part of a group project. The work was carried out by a team of four members, including myself and three collaborators. Working together allowed us to exchange ideas, provide mutual support in solving challenges, and improve our programming and statistical skills.
+
 ---
 
 ## Key Topics Covered
